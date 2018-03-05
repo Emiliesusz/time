@@ -1,2 +1,1 @@
-"# time" 
-"# awesome" 
+"# fun" 
